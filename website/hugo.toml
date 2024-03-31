@@ -1,0 +1,4 @@
+baseURL = 'https://konflux-ci.dev/'
+languageCode = 'en-us'
+title = 'Konflux'
+theme = 'hugo-universal-theme'
